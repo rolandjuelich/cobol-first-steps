@@ -1,5 +1,6 @@
 # Environment
 * install [OpenCOBOL](https://gnucobol.sourceforge.io) compiler
+* install [visual studio code extension](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol)
 ### on MacOS
 ```brew install gnu-cobol```
 # Documentation
